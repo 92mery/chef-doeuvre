@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/92mery/chef-doeuvre/static/css/main.5f361e03.chunk.css",
+    "main.js": "/92mery/chef-doeuvre/static/js/main.ac26ddb4.chunk.js",
+    "main.js.map": "/92mery/chef-doeuvre/static/js/main.ac26ddb4.chunk.js.map",
+    "runtime-main.js": "/92mery/chef-doeuvre/static/js/runtime-main.2820706f.js",
+    "runtime-main.js.map": "/92mery/chef-doeuvre/static/js/runtime-main.2820706f.js.map",
+    "static/js/2.bed78e95.chunk.js": "/92mery/chef-doeuvre/static/js/2.bed78e95.chunk.js",
+    "static/js/2.bed78e95.chunk.js.map": "/92mery/chef-doeuvre/static/js/2.bed78e95.chunk.js.map",
+    "index.html": "/92mery/chef-doeuvre/index.html",
+    "precache-manifest.10819243508ab678b97dc1cabff90200.js": "/92mery/chef-doeuvre/precache-manifest.10819243508ab678b97dc1cabff90200.js",
+    "service-worker.js": "/92mery/chef-doeuvre/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/92mery/chef-doeuvre/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bed78e95.chunk.js.LICENSE.txt": "/92mery/chef-doeuvre/static/js/2.bed78e95.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/92mery/chef-doeuvre/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2820706f.js",
+    "static/js/2.bed78e95.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ac26ddb4.chunk.js"
+  ]
+}
