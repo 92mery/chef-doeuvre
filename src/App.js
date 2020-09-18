@@ -4,6 +4,9 @@ import './App.css';
 
 import Home from './Home';
 import NavBar from './NavBar';
+import Formulaire from './Formulaire';
+
+
 
 function App() {
   return    <div>
